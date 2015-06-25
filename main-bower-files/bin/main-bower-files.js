@@ -9,5 +9,5 @@ var files = mainBowerFiles({
 });
 
 files.forEach(function (file) {
-  console.log(file);
+  process.stdout.write(file+"\n");
 });

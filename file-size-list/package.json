@@ -1,0 +1,7 @@
+{
+  "name": "file-size-list",
+  "version": "1.0.0",
+  "dependencies": {
+    "readline": "0.0.8"
+  }
+}
